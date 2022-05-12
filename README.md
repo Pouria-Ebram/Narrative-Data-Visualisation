@@ -7,3 +7,5 @@ As part of this data exploration project  I analysed and explored any existing r
 
 In the process I discovered some interesting trends and almost positive relationships in most of these factors with the spread of COVID-19 however some seemingly related more to the spread of the disease than others, the data sourced for this project is limited to the COVID-19 data from 9/1/20 - 12/4/20
 The data exploration was done using Tableau and the App is built using R-Shiny
+
+the app is published [here](https://bigp-shiny.shinyapps.io/my_covid_app/?_ga=2.205015442.364254808.1592876790-1244408552.1586388199)
